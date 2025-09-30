@@ -8,8 +8,8 @@ Poor Boomer Kong has been captured by Oddie and now finds himself locked up in a
 ## Credits
 Graphics - ALeafyOddie  
 Oddie, Junior, Boomer Kong characters - ALeafyOddie  
-Original Creature Designs - Game Freak
-Original Game - Nintendo
+Original Creature Designs - Game Freak  
+Original Game - Nintendo  
 
 ## Rom Information
     Database match: Donkey Kong Jr. (World) (Rev 1)
